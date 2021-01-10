@@ -1,5 +1,7 @@
 # JvWeather
 
+![fd6f2882-847c-4fe9-a72b-f70bf27e8a04](https://user-images.githubusercontent.com/65667183/104133630-9a44cd00-5363-11eb-963a-5b14cd069ddf.png)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
 ## Development server
